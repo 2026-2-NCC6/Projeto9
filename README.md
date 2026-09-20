@@ -89,5 +89,5 @@ Aqui estão as referências usadas no projeto:
 
 1. [IURICODE - README Template](https://github.com/iuricode/readme-template)  
    Acesso em: 20 de outubro de 2025.
-2. [Choose a License for Your Work]https://creativecommons.org/chooser/
-
+2. [Choose a License for Your Work](https://creativecommons.org/chooser/)  
+   Acesso em: 20 de Setempro de 2025.
