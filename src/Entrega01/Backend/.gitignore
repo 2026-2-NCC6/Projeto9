@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados em tempo de execução (calibração de câmera e capturas de tela)
+vision/camera1_calibration.npy
+vision/camera2_calibration.npy
+vision/screenshot_*.png

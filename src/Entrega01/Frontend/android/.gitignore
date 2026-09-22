@@ -1,0 +1,15 @@
+# Build
+/build/
+app/build/
+.gradle/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Config de máquina local (gerado automaticamente ao abrir no Android Studio)
+local.properties
+
+# Segredo do Firebase — cada dev usa o próprio (ver README de instruções)
+app/google-services.json

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Tennis Arena</string>
+    <string name="titulo">SMART TENNIS ARENA</string>
+    <string name="subtitulo">Treinamentos gamificados</string>
+
+    <!-- Login -->
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Registrar</string>
+
+    <!-- Menu -->
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="melhor_score">Melhor score</string>
+    <string name="selecione_nivel">Selecione o nível</string>
+    <string name="facil">FÁCIL</string>
+    <string name="medio">MÉDIO</string>
+    <string name="dificil">DIFÍCIL</string>
+    <string name="facil_desc">Laser lento • até 60 pts</string>
+    <string name="medio_desc">Laser normal • até 120 pts</string>
+    <string name="dificil_desc">Laser rápido • até 300 pts</string>
+    <string name="jogar">Jogar</string>
+    <string name="historico">Histórico</string>
+    <string name="controle">Controle</string>
+    <string name="sair">Sair</string>
+
+    <!-- Jogo -->
+    <string name="parar_jogo">Parar jogo</string>
+    <string name="ligar_laser">Ligar laser</string>
+    <string name="desligar_laser">Desligar laser</string>
+    <string name="tempo_restante">Tempo restante</string>
+
+    <!-- Resultado -->
+    <string name="resultado_final">RESULTADO FINAL</string>
+    <string name="analise">Análise</string>
+    <string name="novo_jogo">Novo jogo</string>
+    <string name="compartilhar">Compartilhar</string>
+
+    <!-- Conexão / controle -->
+    <string name="conexao">Conexão</string>
+    <string name="conectar">Conectar</string>
+    <string name="tela_controle">Tela de controle</string>
+    <string name="flask_endereco">Endereço do Flask (IP do notebook:porta)</string>
+    <string name="controle_manual">Controle manual</string>
+    <string name="movimento">Movimento (servos)</string>
+    <string name="atuadores">Atuadores</string>
+    <string name="sessao">Sessão</string>
+    <string name="servo_esq">◀  Esquerda</string>
+    <string name="servo_dir">Direita  ▶</string>
+    <string name="servo_cima">▲  Cima</string>
+    <string name="servo_baixo">▼  Baixo</string>
+    <string name="laser">Laser</string>
+    <string name="led">💡 LED</string>
+    <string name="buzzer">Buzzer</string>
+    <string name="reset_servos">🔄 Reset</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="pausar">Pausar</string>
+    <string name="estop">🚨 Parada segura</string>
+    <string name="log">Log</string>
+    <string name="limpar_logs">Limpar log</string>
+
+    <!-- Histórico -->
+    <string name="historico_titulo">Histórico de sessões</string>
+    <string name="evolucao">Evolução</string>
+    <string name="ultimas_sessoes">Últimas sessões</string>
+    <string name="voltar">Voltar</string>
+</resources>
