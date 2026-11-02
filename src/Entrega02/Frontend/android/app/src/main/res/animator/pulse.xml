@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:ordering="together">
+    <objectAnimator android:propertyName="scaleX" android:valueFrom="1" android:valueTo="1.05"
+        android:duration="900" android:repeatCount="-1" android:repeatMode="reverse" />
+    <objectAnimator android:propertyName="scaleY" android:valueFrom="1" android:valueTo="1.05"
+        android:duration="900" android:repeatCount="-1" android:repeatMode="reverse" />
+</set>

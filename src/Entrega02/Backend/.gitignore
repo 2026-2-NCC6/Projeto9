@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados em tempo de execução (calibração de câmera, capturas, logs)
+vision/camera1_calibration.npy
+vision/camera2_calibration.npy
+vision/calibracao_quadra.json
+vision/impactos_log.csv
+vision/screenshot_*.png
+
+# Dataset e modelos treinados (grandes, não fazem parte do código-fonte)
+dataset/
+runs/
+*.pt

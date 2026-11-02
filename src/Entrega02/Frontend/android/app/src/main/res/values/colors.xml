@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primária: verde tênis -->
+    <color name="md_theme_primary">#2E7D32</color>
+    <color name="md_theme_primary_light">#66BB6A</color>
+    <color name="md_theme_primary_dark">#1B5E20</color>
+    <color name="md_theme_primary_container">#C8E6C9</color>
+    <color name="md_theme_on_primary_container">#0B3D0E</color>
+
+    <!-- Secundária: amarelo bola -->
+    <color name="md_theme_secondary">#FFD600</color>
+    <color name="md_theme_secondary_light">#FFEB3B</color>
+    <color name="md_theme_secondary_dark">#FBC02D</color>
+    <color name="md_theme_secondary_container">#FFF3B0</color>
+
+    <!-- Accent: azul -->
+    <color name="md_theme_accent">#0288D1</color>
+
+    <!-- Neutros -->
+    <color name="md_theme_background">#FFFBFE</color>
+    <color name="md_theme_surface">#F5EFF7</color>
+    <color name="md_theme_surface_variant">#EBE5F9</color>
+    <color name="md_theme_on_background">#1C1B1F</color>
+    <color name="md_theme_on_surface">#49454E</color>
+    <color name="md_theme_outline">#79747E</color>
+    <color name="md_theme_outline_variant">#CAC4D0</color>
+
+    <!-- Status -->
+    <color name="md_theme_error">#B3261E</color>
+    <color name="md_theme_error_light">#F9DEDC</color>
+    <color name="md_theme_success">#34A853</color>
+
+    <!-- Níveis -->
+    <color name="nivel_facil">#2E7D32</color>
+    <color name="nivel_medio">#F57C00</color>
+    <color name="nivel_dificil">#B3261E</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

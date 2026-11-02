@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# scripts/*.py (pipeline YOLOv8 opcional, além do detector por cor acima)
+ultralytics>=8.4.0
