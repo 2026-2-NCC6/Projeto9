@@ -51,8 +51,12 @@ Raiz/<br>
 &emsp;&emsp;&emsp;├── redes_de_computadores_ciberseguranca/<br>
 &emsp;&emsp;&emsp;├── sistemas_embarcados_robotica/<br>
 &emsp;&emsp;&emsp;└── teoria_da_computacao_linguagens_formais/<br>
+&emsp;&emsp;├── Banner_PI_FECAP.pdf<br>
 &emsp;&emsp;├── Documento - Projeto de Extensão - COM Empresa.docx<br>
 &emsp;&emsp;├── Documento - Projeto de Extensão - SEM EMPRESA.docx<br>
+&emsp;&emsp;├── PI_6CCOMP_2026_Smart_Tennis_Arena_FINAL.pdf<br>
+&emsp;&emsp;├── PI_6CCOMP_2026_Smart_Tennis_Arena_v3.md<br>
+&emsp;&emsp;├── README.md<br>
 &emsp;├── imagens/<br>
 &emsp;├── src/<br>
 &emsp;&emsp;├── Entrega 1/<br>
@@ -61,6 +65,7 @@ Raiz/<br>
 &emsp;&emsp;├── Entrega 2/<br>
 &emsp;&emsp;&emsp;├── Backend/<br>
 &emsp;&emsp;&emsp;└── Frontend/<br>
+&emsp;&emsp;├── README.md<br>
 &emsp;├── .gitignore<br>
 &emsp;└── README.md<br>
 
