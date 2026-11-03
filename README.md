@@ -65,21 +65,22 @@ Raiz/<br>
 &emsp;└── README.md<br>
 
 
-## 🛠 Link do Site
-
-
-
 ## 💻 Configuração para Desenvolvimento
-Este projeto foi desenvolvido utilizando Visual Studio Code (VS Code)
- e recomenda-se abrir o projeto com este editor.
 
-Pré-requisitos
+Este projeto foi desenvolvido utilizando diferentes ferramentas para a programação do aplicativo, do Arduino e para o gerenciamento do código-fonte.
 
-1. Arduino
+### Pré-requisitos
 
-2. Git
+Antes de iniciar, é necessário instalar e configurar as seguintes ferramentas:
 
-3. Visual Studio Code
+1. **Android Studio** – Ambiente de desenvolvimento do aplicativo Android.
+2. **Arduino IDE** – Para programar e carregar o código no Arduino.
+3. **Git** – Para controle de versão e gerenciamento do código-fonte.
+4. **Visual Studio Code** – Editor de código utilizado no desenvolvimento do projeto.
+
+### Ferramentas de Apoio
+
+- **Claude.ai** – Utilizado como ferramenta de apoio durante o desenvolvimento do projeto, auxiliando na análise de códigos e na resolução de dúvidas técnicas.
 
 ## 📋 Licença/License
 <a href="https://github.com/2026-2-NCC6/Projeto9">Tech tennis</a> © 2026 by <a href="https://github.com/LiuYueLYHX">Eduardo Chen Zou</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
