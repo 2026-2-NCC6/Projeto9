@@ -72,7 +72,7 @@
 
 | Campo | Descrição |
 |---|---|
-| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
+| Aluno(s) responsável(is) | Lucas Kenichi |
 | Ferramenta utilizada | Claude |
 | Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Projeto Interdisciplinar: Internet das Coisas e Robótica |
@@ -136,7 +136,7 @@
 
 | Campo | Descrição |
 |---|---|
-| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
+| Aluno(s) responsável(is) | Lucas Kenichi |
 | Ferramenta utilizada | Claude |
 | Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 2 - Projeto Interdisciplinar: Internet das Coisas e Robótica |
