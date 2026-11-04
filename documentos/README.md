@@ -1,65 +1,149 @@
-# Registro de Uso de Inteligência Artificial – DOCUMENTOS
+# DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
 
-## Projeto: Tech Tennis
+**Projeto:** Smart Tennis Arena
+**Instituição:** FECAP
 
-Este documento apresenta o registro da utilização de ferramentas de Inteligência 
-Artificial durante o desenvolvimento da documentação do projeto Tech Tennis, 
-desenvolvido no Projeto Interdisciplinar da FECAP. 
+> Campos marcados com `[preencher]` devem ser completados com a ferramenta e o modelo realmente utilizados por cada integrante.
 
-### 1. Ferramentas utilizadas
+---
 
-- Claude.ai
+## Equipe e responsabilidades
 
-### 2. Finalidade de uso
+| Integrante | Entregas sob responsabilidade |
+|---|---|
+| Pedro Dimitry Zyrianoff | Projeto Interdisciplinar: IoT e Robótica; Sistemas Embarcados e Robótica |
+| Pedro Della Rosa | Redes de Computadores e Cibersegurança; Inovação e Empreendedorismo |
+| Eduardo Chen | Teoria da Computação e Linguagens Formais |
+| Lucas Kenichi | Aplicativo, Arduino e treinamento da IA (visão computacional) |
 
-A ferramenta de Inteligência Artificial foi utilizada como apoio na elaboração e 
-organização da documentação do projeto, principalmente para:
+---
 
-Explicar conceitos técnicos relacionados ao Arduino, IoT e robótica. 
-- Auxiliar na descrição do funcionamento do sistema de treinamento de tênis 
-com alvo a laser. 
-- Esclarecer o funcionamento dos componentes eletrônicos, como Arduino 
-Uno, servomotores SG90, módulo laser, LEDs e buzzer. 
-- Auxiliar na documentação do posicionamento do laser nos eixos X e Y. 
-- Organizar as explicações sobre a utilização das câmeras para identificar os 
-acertos e erros do jogador. 
-- Auxiliar na descrição das regras de pontuação, considerando os estados de 
-Acerto e Erro. 
-- Organizar a documentação da máquina de estados, eventos, regras, pré
-condições e pós-condições do sistema. 
-- Explicar conceitos relacionados aos autômatos finitos e à decidibilidade. 
-- Revisar e melhorar a escrita dos textos em português.
+## Entrega 1
 
-### 3. Prompts principais utilizados
+### Inovação e Empreendedorismo
 
-- Explique o funcionamento dos componentes eletrônicos utilizados no 
-projeto. 
-- Ajude a descrever a arquitetura do sistema Tech Tennis. 
-- Explique como os servomotores controlam o posicionamento do laser nos 
-eixos X e Y. 
-- Ajude a documentar a lógica de identificação de acertos e erros. 
-- Explique como organizar a máquina de estados do sistema. 
-- Ajude a elaborar as pré-condições e pós-condições dos eventos. 
-- Explique qual modelo computacional representa melhor o funcionamento 
-do sistema. 
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Della Rosa |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 1 - Inovação e Empreendedorismo |
+| Finalidade de uso | Revisão teórica e apoio à estruturação da análise da oportunidade. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
 
-### 4. Trechos ou entregas afetadas
+### Redes de Computadores e Cibersegurança
 
-A utilização da ferramenta auxiliou na elaboração e organização dos seguintes 
-conteúdos: 
-- Descrição geral e funcionamento do projeto Tech Tennis. 
-- Documentação dos componentes eletrônicos e suas funções. 
-- Arquitetura preliminar do sistema. 
-- Descrição dos sensores e atuadores. 
-- Regras de funcionamento e sistema de pontuação. 
-- Diagrama e documentação da máquina de estados. 
-- Eventos, regras, pré-condições e pós-condições. 
-- Justificativa do modelo computacional e análise de decidibilidade. 
-- Relatórios e documentação técnica das entregas do projeto.
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Della Rosa |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 1 - Plano de Gerenciamento de Riscos |
+| Finalidade de uso | Apoio à análise de segurança da arquitetura e identificação de ameaças. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
 
-### 5. Responsabilidade
+### Sistemas Embarcados e Robótica
 
-Os integrantes do grupo são responsáveis pela revisão, análise, validação e 
-conteúdo final dos documentos apresentados. A ferramenta de Inteligência 
-Artificial foi utilizada apenas como apoio, não substituindo a compreensão 
-técnica e a participação dos integrantes no desenvolvimento do projeto.
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 1 - Sistemas Embarcados e Robótica |
+| Finalidade de uso | Apoio à documentação do protótipo, dos circuitos básicos e da simulação. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
+
+### Teoria da Computação e Linguagens Formais
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Eduardo Chen |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 1 - Teoria da Computação e Linguagens Formais |
+| Finalidade de uso | Apoio à modelagem formal do comportamento do sistema. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
+
+### Projeto Interdisciplinar: IoT e Robótica
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 1 - Projeto Interdisciplinar: Internet das Coisas e Robótica |
+| Finalidade de uso | Apoio à concepção e organização da proposta técnica e da arquitetura inicial. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
+
+---
+
+## Entrega 2
+
+### Inovação e Empreendedorismo
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Della Rosa |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 2 - Inovação e Empreendedorismo |
+| Finalidade de uso | Revisão crítica e apoio à análise estratégica e ao modelo de negócios. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
+
+### Redes de Computadores e Cibersegurança
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Della Rosa |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 2 - Plano de Respostas aos Riscos |
+| Finalidade de uso | Apoio à revisão do plano de respostas e à análise dos controles de segurança. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
+
+### Sistemas Embarcados e Robótica
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff, Lucas Kenichi |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 2 - Sistemas Embarcados e Robótica (Programação e Controle de Dispositivos no Arduino) |
+| Finalidade de uso | Apoio à documentação e à revisão do firmware do Arduino e da montagem do circuito. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | Descrição da montagem, código-fonte comentado e documentação da entrega. |
+
+### Teoria da Computação e Linguagens Formais
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Eduardo Chen |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 2 - Teoria da Computação e Linguagens Formais |
+| Finalidade de uso | Revisão de consistência da especificação formal atualizada do sistema. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | `[preencher]` |
+
+### Projeto Interdisciplinar: IoT e Robótica
+
+| Campo | Descrição |
+|---|---|
+| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff, Lucas Kenichi |
+| Ferramenta utilizada | `[preencher]` |
+| Versão/modelo | `[preencher]` |
+| Disciplina / Trabalho | Entrega 2 - Projeto Interdisciplinar: Internet das Coisas e Robótica |
+| Finalidade de uso | Apoio à revisão técnica da implementação, ao aplicativo e ao treinamento da IA de visão computacional. |
+| Prompts principais utilizados | Síntese: `[preencher]` |
+| Trechos ou entregas afetadas | Arquitetura modular, firmware, integração com o aplicativo e o backend, treinamento da IA. |
+
+---
+
+Declaramos que o uso acima descrito está em conformidade com o **GUIA PARA O USO RESPONSÁVEL DE INTELIGÊNCIA ARTIFICIAL NA FECAP** e que o conteúdo final é de nossa plena responsabilidade autoral.
