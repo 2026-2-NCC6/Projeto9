@@ -49,12 +49,12 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Sistemas Embarcados e Robótica |
-| Finalidade de uso | Apoio à documentação do protótipo, dos circuitos básicos e da simulação. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Finalidade de uso | Apoio à elaboração e à documentação dos circuitos básicos de eletrônica, do protótipo do Smart Tênis e da simulação. |
+| Prompts principais utilizados | Síntese: ajudar a montar o documento em Word da Entrega 1; explicar e documentar os circuitos básicos, o protótipo do Smart Tênis e a simulação no Tinkercad. |
+| Trechos ou entregas afetadas | Documentação dos circuitos básicos, descrição do protótipo e simulação no Tinkercad. |
 
 ### Teoria da Computação e Linguagens Formais
 
@@ -73,12 +73,12 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Projeto Interdisciplinar: Internet das Coisas e Robótica |
-| Finalidade de uso | Apoio à concepção e organização da proposta técnica e da arquitetura inicial. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Finalidade de uso | Apoio à estruturação do documento de planejamento físico (NI1) do sistema de treino de tênis com máquina de arremesso, alvo a laser e visão computacional. |
+| Prompts principais utilizados | Síntese: ajudar a montar o documento Word da NI1; organizar o planejamento físico (posição do gol, do laser, do lançador de bolas e das câmeras) e a eletrônica ligada ao Arduino Uno (protoboard, servo SG90, laser). |
+| Trechos ou entregas afetadas | Planejamento físico do ambiente de teste, posicionamento das câmeras e descrição da eletrônica do protótipo. |
 
 ---
 
@@ -112,13 +112,13 @@
 
 | Campo | Descrição |
 |---|---|
-| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff, Lucas Kenichi |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
+| Ferramenta utilizada | Claude  |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 2 - Sistemas Embarcados e Robótica (Programação e Controle de Dispositivos no Arduino) |
-| Finalidade de uso | Apoio à documentação e à revisão do firmware do Arduino e da montagem do circuito. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | Descrição da montagem, código-fonte comentado e documentação da entrega. |
+| Finalidade de uso | Apoio à documentação da Entrega 02 (Programação e Controle de Dispositivos no Arduino) e à explicação do firmware e da montagem do circuito. |
+| Prompts principais utilizados | Síntese: montar a Entrega 02 completa em Word, com a mesma capa e fonte da Entrega 1; ajustar o texto para a montagem real (sem potenciômetro) e incluir a foto do Arduino montado; substituir o código pelo firmware hoje_com_G.ino (Arduino ← Flask ← app Android) e adaptar a explicação; acrescentar a seção "1. Objetivo do projeto" em linguagem simples; gerar a versão final em PDF. |
+| Trechos ou entregas afetadas | Código-fonte comentado (explicação), descrição do funcionamento e da lógica, seção "Objetivo do projeto" e legenda da evidência prática. |
 
 ### Teoria da Computação e Linguagens Formais
 
@@ -136,13 +136,13 @@
 
 | Campo | Descrição |
 |---|---|
-| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff, Lucas Kenichi |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Aluno(s) responsável(is) | Pedro Dimitry Zyrianoff |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 2 - Projeto Interdisciplinar: Internet das Coisas e Robótica |
-| Finalidade de uso | Apoio à revisão técnica da implementação, ao aplicativo e ao treinamento da IA de visão computacional. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | Arquitetura modular, firmware, integração com o aplicativo e o backend, treinamento da IA. |
+| Finalidade de uso | Apoio à elaboração do relatório de evolução (NI2) e ao planejamento do app mobile e do treinamento da IA de visão computacional. |
+| Prompts principais utilizados | Síntese: redigir o relatório de evolução (PDF de até 2 páginas) com os avanços desde a NI1: testes na quadra, posicionamento das câmeras e treino dos eixos X e Y, código para preparar a IA e mudança do ambiente de teste para um protótipo com quadro, tripés e bola presa por linha; apoio ao planejamento do app mobile (Lovable) com login e cadastro. |
+| Trechos ou entregas afetadas | Relatório de evolução (NI2), descrição das etapas de treinamento da IA e da mudança de planejamento. |
 
 ---
 
