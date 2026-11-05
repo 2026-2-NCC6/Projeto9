@@ -61,12 +61,12 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Eduardo Chen |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | ChatGPT |
+| Versão/modelo | GPT-6 |
 | Disciplina / Trabalho | Entrega 1 - Teoria da Computação e Linguagens Formais |
 | Finalidade de uso | Apoio à modelagem formal do comportamento do sistema. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Prompts principais utilizados | Síntese: Uso da IA para verificar e refinar o alinhamento dos estados, eventos, tabela de transições, expressão regular, linguagem do sistema e gramática, corrigindo eventuais inconsistências no texto e na modelagem. |
+| Trechos ou entregas afetadas | O uso da ferramenta de apoio afetou todo o bloco de modelagem formal do sistema de treinamento de tênis, o qual engloba a especificação detalhada dos estados e eventos do sistema, a elaboração do diagrama de estados e da tabela de transições de estados. Além disso, a ferramenta auxiliou na definição formal da linguagem do sistema ($L$), na construção da expressão regular ($R$), na formulação da gramática formal ($G$) e na redação da seção de justificativa da modelagem |
 
 ### Projeto Interdisciplinar: IoT e Robótica
 
@@ -125,12 +125,12 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Eduardo Chen |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | ChatGPT |
+| Versão/modelo | GPT-6 |
 | Disciplina / Trabalho | Entrega 2 - Teoria da Computação e Linguagens Formais |
 | Finalidade de uso | Revisão de consistência da especificação formal atualizada do sistema. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Prompts principais utilizados | Síntese: Análise da coerência formal do autômato (AFD), identificação de inconsistências nos fluxos de erro e calibração, e otimização regras de funcionamento e pré/pós-condições do sistema Smart Tênis. |
+| Trechos ou entregas afetadas | Revisão e ajuste das regras de funcionamento , correção do fluxo no diagrama e na tabela de transições de estados, e refinamento dos cenários de decidibilidade. |
 
 ### Projeto Interdisciplinar: IoT e Robótica
 
