@@ -29,8 +29,8 @@
 | Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Inovação e Empreendedorismo |
 | Finalidade de uso | Revisão teórica e apoio à estruturação da análise da oportunidade. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Prompts principais utilizados | Síntese: Ajudar a estruturar a análise de oportunidade com base nas informações já estabelecidas, mantendo a coerência nas tabelas. |
+| Trechos ou entregas afetadas | Pesquisas e tabelas na Análise de Oportunidade |
 
 ### Redes de Computadores e Cibersegurança
 
