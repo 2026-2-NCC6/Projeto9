@@ -25,8 +25,8 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Pedro Della Rosa |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Inovação e Empreendedorismo |
 | Finalidade de uso | Revisão teórica e apoio à estruturação da análise da oportunidade. |
 | Prompts principais utilizados | Síntese: `[preencher]` |
@@ -37,8 +37,8 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Pedro Della Rosa |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Plano de Gerenciamento de Riscos |
 | Finalidade de uso | Apoio à análise de segurança da arquitetura e identificação de ameaças. |
 | Prompts principais utilizados | Síntese: `[preencher]` |
