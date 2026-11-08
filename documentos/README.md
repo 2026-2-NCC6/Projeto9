@@ -3,7 +3,6 @@
 **Projeto:** Smart Tennis Arena
 **Instituição:** FECAP
 
-> Campos marcados com `[preencher]` devem ser completados com a ferramenta e o modelo realmente utilizados por cada integrante.
 
 ---
 
