@@ -41,8 +41,8 @@
 | Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 1 - Plano de Gerenciamento de Riscos |
 | Finalidade de uso | Apoio à análise de segurança da arquitetura e identificação de ameaças. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Prompts principais utilizados | Síntese: Ajudar a estruturar a o Plano de Gerenciamento de Riscos e apoio na descoberta de novos possíveis riscos além dos já estabelecidos. |
+| Trechos ou entregas afetadas | Tabela de Registro de Riscos e Vulnerabilidades Identificados |
 
 ### Sistemas Embarcados e Robótica
 
@@ -89,24 +89,24 @@
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Pedro Della Rosa |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 2 - Inovação e Empreendedorismo |
 | Finalidade de uso | Revisão crítica e apoio à análise estratégica e ao modelo de negócios. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Prompts principais utilizados | Síntese: Ajudar a estruturar a estratégia e modelo de negócios com base nas informações já estabelecidas, mantendo a coerência nas tabelas e do Business Model Canvas; Montar a projeção de resultados para anos seguintes com base no que já foi estabelecido. |
+| Trechos ou entregas afetadas | Tabelas, Business Model Canvas e Pesquisas |
 
 ### Redes de Computadores e Cibersegurança
 
 | Campo | Descrição |
 |---|---|
 | Aluno(s) responsável(is) | Pedro Della Rosa |
-| Ferramenta utilizada | `[preencher]` |
-| Versão/modelo | `[preencher]` |
+| Ferramenta utilizada | Claude |
+| Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 2 - Plano de Respostas aos Riscos |
 | Finalidade de uso | Apoio à revisão do plano de respostas e à análise dos controles de segurança. |
-| Prompts principais utilizados | Síntese: `[preencher]` |
-| Trechos ou entregas afetadas | `[preencher]` |
+| Prompts principais utilizados | Síntese: Ajudar a estruturar o Plano de Respostas aos Riscos, com base nos riscos definidos na Entrega 1. |
+| Trechos ou entregas afetadas | Tabela de Resposta aos Riscos |
 
 ### Sistemas Embarcados e Robótica
 
