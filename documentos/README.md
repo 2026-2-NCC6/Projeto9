@@ -92,7 +92,7 @@
 | Versão/modelo | Sonnet 5.5 |
 | Disciplina / Trabalho | Entrega 2 - Inovação e Empreendedorismo |
 | Finalidade de uso | Revisão crítica e apoio à análise estratégica e ao modelo de negócios. |
-| Prompts principais utilizados | Síntese: Ajudar a estruturar a estratégia e modelo de negócios com base nas informações já estabelecidas, mantendo a coerência nas tabelas e do Business Model Canvas |
+| Prompts principais utilizados | Síntese: Ajudar a estruturar a estratégia e modelo de negócios com base nas informações já estabelecidas, mantendo a coerência nas tabelas e do Business Model Canvas; Montar a projeção de resultados para anos seguintes com base no que já foi estabelecido |
 | Trechos ou entregas afetadas | Tabelas, Business Model Canvas e Pesquisas |
 
 ### Redes de Computadores e Cibersegurança
