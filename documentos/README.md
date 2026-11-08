@@ -41,7 +41,7 @@
 | Disciplina / Trabalho | Entrega 1 - Plano de Gerenciamento de Riscos |
 | Finalidade de uso | Apoio à análise de segurança da arquitetura e identificação de ameaças. |
 | Prompts principais utilizados | Síntese: Ajudar a estruturar a o Plano de Gerenciamento de Riscos e apoio na descoberta de novos possíveis riscos além dos já estabelecidos. |
-| Trechos ou entregas afetadas | Tabela de Registro de Riscos e Vulnerabilidades Indentificados |
+| Trechos ou entregas afetadas | Tabela de Registro de Riscos e Vulnerabilidades Identificados |
 
 ### Sistemas Embarcados e Robótica
 
